@@ -3,6 +3,7 @@ class Anagram
   
   def initialize
     @name = word
+  end
   
   def match
   end
